@@ -53,8 +53,11 @@ Now once it's booted up, for the last time (I promise) remove the SD card again 
 
 
 LEFT      10  # Joypad left
+
 RIGHT     22  # Joypad right
+
 UP        23  # Joypad up
+
 DOWN      27  # Joypad down
 LEFTCTRL   4  # 'A' button
 LEFTALT   25  # 'B' button
