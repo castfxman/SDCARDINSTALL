@@ -76,6 +76,7 @@ ENTER     26  # 'Start' button
 
 ESC    16 26  # Hold Start+Select to exit ROM
 
+
 You only need to add the L and R buttons which are not listed here, do so by typing this below
 
 
@@ -83,7 +84,9 @@ A         12  #
 
 S         13  #
 
+
 So the button mapping looks like this
+
 
 
 LEFT      10  # Joypad left
@@ -113,6 +116,7 @@ ESC    16 26  # Hold Start+Select to exit ROM
 A         12  #
 
 S         13  #
+
 
 
 Save this file and close it, then open up a file called config.txt, then add this line of code to the bottom
