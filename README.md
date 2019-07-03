@@ -52,15 +52,11 @@ Then select the option to restart and let it boot back up.
 Now once it's booted up, for the last time (I promise) remove the SD card again and pop it back into your computer, at this point you only have 2 things to do.  Open up the file on your SD card titled 'retrogame.cfg' You can open it to almost any text editor, notepad should work, I like a program called Sublime Text2.  Once open in the text editor you should see these buttons mapped or listed like so,
 
 
-LEFT      10  # Joypad left
-
-RIGHT     22  # Joypad right
-
-UP        23  # Joypad up
-
-DOWN      27  # Joypad down
-
-LEFTCTRL   4  # 'A' button
+LEFT      10  # Joypad left  
+RIGHT     22  # Joypad right  
+UP        23  # Joypad up  
+DOWN      27  # Joypad down  
+LEFTCTRL   4  # 'A' button  
 
 LEFTALT   25  # 'B' button
 
