@@ -57,62 +57,40 @@ RIGHT     22  # Joypad right
 UP        23  # Joypad up  
 DOWN      27  # Joypad down  
 LEFTCTRL   4  # 'A' button  
-
-LEFTALT   25  # 'B' button
-
-Z         11  # 'X' button
-
-X          5  # 'Y' button
-
-GND        6  # Spare ground point for 'Y' button
-
-SPACE     16  # 'Select' button
-
-ENTER     26  # 'Start' button
-
-ESC    16 26  # Hold Start+Select to exit ROM
+LEFTALT   25  # 'B' button  
+Z         11  # 'X' button  
+X          5  # 'Y' button  
+GND        6  # Spare ground point for 'Y' button  
+SPACE     16  # 'Select' button  
+ENTER     26  # 'Start' button  
+ESC    16 26  # Hold Start+Select to exit ROM  
 
 
-You only need to add the L and R buttons which are not listed here, do so by typing this below
+You only need to add the L and R buttons which are not listed here, do so by typing this below  
 
 
-A         12  #
-
-S         13  #
+A         12  #  
+S         13  #  
 
 
 So the button mapping looks like this
 
 
 
-LEFT      10  # Joypad left
-
-RIGHT     22  # Joypad right
-
-UP        23  # Joypad up
-
-DOWN      27  # Joypad down
-
-LEFTCTRL   4  # 'A' button
-
-LEFTALT   25  # 'B' button
-
-Z         11  # 'X' button
-
-X          5  # 'Y' button
-
-GND        6  # Spare ground point for 'Y' button
-
-SPACE     16  # 'Select' button
-
-ENTER     26  # 'Start' button
-
-ESC    16 26  # Hold Start+Select to exit ROM
-
-A         12  #
-
-S         13  #
-
+LEFT      10  # Joypad left  
+RIGHT     22  # Joypad right  
+UP        23  # Joypad up  
+DOWN      27  # Joypad down  
+LEFTCTRL   4  # 'A' button  
+LEFTALT   25  # 'B' button  
+Z         11  # 'X' button  
+X          5  # 'Y' button  
+GND        6  # Spare ground point for 'Y' button  
+SPACE     16  # 'Select' button  
+ENTER     26  # 'Start' button  
+ESC    16 26  # Hold Start+Select to exit ROM  
+A         12  #  
+S         13  #  
 
 
 Save this file and close it, then open up a file called config.txt, then add this line of code to the bottom
