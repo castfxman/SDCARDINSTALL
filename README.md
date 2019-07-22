@@ -71,7 +71,7 @@ You only need to add the L and R buttons which are not listed here, do so by typ
 
 A         12  #  
 S         13  #  
-W         20  # For L2
+W         20  # For L2     
 D         17  # For R2
 
 So the button mapping looks like this
@@ -92,7 +92,7 @@ ENTER     26  # 'Start' button
 ESC    16 26  # Hold Start+Select to exit ROM  
 A         12  #  
 S         13  #  
-W         20  # For L2
+W         20  # For L2     
 D         17  # For R2
 
 
